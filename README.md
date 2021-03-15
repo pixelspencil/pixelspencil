@@ -35,7 +35,9 @@ I live in London, UK, like to travel, love cycling, walking, and going to concer
   - Design applications such as Figma and Adobe Illustrator/Photoshop
   - Considering learning Animate and After Effects
   - 
-- ⚡ Fun fact: I create lots of art/craft stuff in my spare time, which can be seen on my instagram accounts [PixelsPencil][pixelspencilIG] and [sketchinabottle][siabIG]
+- ⚡ Fun fact: I create lots of art/craft stuff in my spare time, which can be seen on my instagram accounts:
+  - My art: [PixelsPencil][pixelspencilIG]
+  - MY side project: [sketchinabottle][siabIG]
 
 [pixelspencilIG]: https://www.instagram.com/pixelspencil/
 [siabIG]: https://www.instagram.com/sketchinabottle/
