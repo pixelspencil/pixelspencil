@@ -34,7 +34,7 @@ I live in London, UK, like to travel, love cycling, walking, and going to concer
   - Learn more about JavaScript as I am pretty weak with it but very much a work in progress
   - Design applications such as Figma and Adobe Illustrator/Photoshop
   - Considering learning Animate and After Effects
-  - 
+
 - ⚡ Fun fact: I create lots of art/craft stuff in my spare time, which can be seen on my instagram accounts:
   - My art: [PixelsPencil][pixelspencilIG]
   - MY side project: [sketchinabottle][siabIG]
