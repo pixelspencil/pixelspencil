@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pixelspencil/pixelspencil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 
 ![alt text](https://res.cloudinary.com/dbbohl0fi/image/upload/v1615815675/1534242728613_ykug97.jpg "Examples of my hand drawn and digital art")
 
+### Hi there 👋, a little about me...
+
 Hi! I'm Robert Young, also known by my pseudonym PixelsPencil. I like to design and build websites with HTML/CSS/Sass and a sprinkle of JS here and there.
 
-I see myself more of a front end web designer than a developerand I have been working in the web industry for nearly 20 years mostly on the visual/design side of the web.
+I see myself more of a front end web designer than a developer, I have been working in the web industry for nearly 20 years mostly on the visual/design side of things.
 
 I live in London, UK, like to travel, love cycling, walking, and going to concerts and listening to music.
+
+- 🛠 My website is very much a work in progress but you can sneak a peek here <https://www.pixelspencil.com> - it is built using Eleventy and mostly based on the amazing [Learn Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch) course by [Andy Bell](https://github.com/hankchizljaw). 
 
 - 🔭 I’m currently working on designs for a few personal and example websites to demo what I can design and build.
 - 🌱 I’m currently learning CSS/HTML/SVG from the ground up along with design applications such as Figma and Adobe Illustrator/Photoshop.
