@@ -24,11 +24,17 @@ I see myself more of a front end web designer than a developer, I have been work
 
 I live in London, UK, like to travel, love cycling, walking, and going to concerts and listening to music.
 
-- 🛠 My website is very much a work in progress but you can sneak a peek here <https://www.pixelspencil.com> - it is built using Eleventy and mostly based on the amazing [Learn Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch) course by [Andy Bell](https://github.com/hankchizljaw). 
+- 🛠 My website: <https://www.pixelspencil.com>
+  - is very much a work in progress, built using Eleventy and mostly based but adapted from the build in the amazing [Learn Eleventy from Scratch](https://piccalil.li/course/learn-eleventy-from-scratch) course by [Andy Bell](https://github.com/hankchizljaw). 
 
-- 🔭 I’m currently working on designs for a few personal and example websites to demo what I can design and build.
-- 🌱 I’m currently learning CSS/HTML/SVG from the ground up along with design applications such as Figma and Adobe Illustrator/Photoshop.
-- 🤔 I’m also trying to learn more about JavaScript as I am pretty weak but very much a work in progress.
+- 🔭 Currently working on design and build for personal and example websites to demo what I can design and build.
+- 🌱 Currently learning various things to top up or compliment what I already know
+  - CSS/HTML/SVG
+  - Sass/Gulp
+  - Learn more about JavaScript as I am pretty weak with it but very much a work in progress
+  - Design applications such as Figma and Adobe Illustrator/Photoshop
+  - Considering learning Animate and After Effects
+  - 
 - ⚡ Fun fact: I create lots of art/craft stuff in my spare time, which can be seen on my instagram accounts [PixelsPencil][pixelspencilIG] and [sketchinabottle][siabIG]
 
 [pixelspencilIG]: https://www.instagram.com/pixelspencil/
