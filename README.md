@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://res.cloudinary.com/dbbohl0fi/image/upload/v1615815675/1534242728613_ykug97.jpg "Examples of my hand drawn and digital art")
+<!-- ![alt text](https://res.cloudinary.com/dbbohl0fi/image/upload/v1615815675/1534242728613_ykug97.jpg "Examples of my hand drawn and digital art") -->
 
 ### Hi there 👋, a little about me...
 
